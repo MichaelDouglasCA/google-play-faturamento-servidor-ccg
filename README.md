@@ -1,4 +1,4 @@
-```
+```markdown
 # google-play-faturamento-servidor-ccg
 
 **Servidor Node.js para integração com a API Google Play Billing**, permitindo a verificação de compras de produtos e assinaturas na Google Play Store.
