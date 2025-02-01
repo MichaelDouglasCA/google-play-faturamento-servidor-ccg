@@ -1,4 +1,3 @@
-```
 # google-play-faturamento-servidor-ccg
 
 ![npm](https://img.shields.io/npm/v/google-play-faturamento-servidor-ccg)
@@ -15,7 +14,7 @@ Este pacote simplifica a comunicação com a API Google Play Billing, fornecendo
 
 ## 📌 Índice
 
-- [Instalação](#instalação)
+- [Instalação](#ínstalação)
 - [Uso](#uso)
 - [Exemplos](#exemplos)
 - [API](#api)
@@ -190,11 +189,10 @@ Se você deseja contribuir para este projeto, siga os passos:
 
 ## 📜 Licença
 
-Distribuído sob a licença MIT. Veja [LICENSE](./LICENSE) para mais informações.
+Distribuído sob a licença MIT. Veja [LICENSE](https://github.com/MichaelDouglasCA/google-play-faturamento-servidor-ccg/blob/main/LICENSE) para mais informações.
 
 ---
 
 ## 🔗 Sobre
 
 Este pacote foi criado por [MichaelDCA](https://github.com/MichaelDouglasCA) com o objetivo de facilitar a integração entre servidores Node.js e a API Google Play Billing. Este projeto é mantido e aberto a contribuições da comunidade.
-```
