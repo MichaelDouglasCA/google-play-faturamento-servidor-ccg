@@ -8,7 +8,8 @@
 
 Este pacote simplifica a comunicação com a API Google Play Billing, fornecendo uma solução confiável para verificar transações in-app e processar compras. Ideal para desenvolvedores que precisam integrar faturamento com a Google Play Store em suas aplicações.
 
-🔗 **NPM:** [google-play-faturamento-servidor-ccg](https://www.npmjs.com/package/google-play-faturamento-servidor-ccg)
+🔗 **NPM:** [google-play-faturamento-servidor-ccg](https://www.npmjs.com/package/google-play-billing-server-ccg)
+
 
 ---
 
