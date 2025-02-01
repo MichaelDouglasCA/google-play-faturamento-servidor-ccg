@@ -1,0 +1,27 @@
+{
+  "name": "google-play-billing-server-ccg",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "play",
+    "billing",
+    "nodejs",
+    "api",
+    "google-play"
+  ],
+  "author": "MichaelDCA https://github.com/MichaelDouglasCA",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "Servidor Node.js para integração com a API Google Play Billing",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0"
+  },
+  "devDependencies": {},
+  "types": "./index.d.ts"
+}
